@@ -166,23 +166,17 @@ PDCA(Plan、Do、Check、Action)
 
 ### 資訊資產項目分類
 ```
-•實體資產
-– 所有電腦設備、通信與網路設備及相關週邊設備等
+• 實體資產
 
 • 軟體資產
-– 自行或委外開發之軟體、套裝軟體、公用程式等
 
 • 電子化資訊資產
-– 電子儲存之文件、系統資料、組態設定檔、稽核紀錄檔等
 
 • 書面文件
-– 書面管理文件與紀錄、系統相關文件等
 
 • 服務
-– 通訊、網路、照明、電力等
 
 • 人員
-– 正式職員、約聘人員、廠商駐點人員及工讀生等
 ```
 
 ### 資訊資產蒐集與管理
@@ -199,8 +193,7 @@ PDCA(Plan、Do、Check、Action)
 
 ### 風險
 ```
-威脅(Threat)利用資產(Asset)的脆弱性(Vulnerability)
-造成衝擊(Impact)的可能性(Likelihood)
+威脅(Threat)利用資產(Asset)的脆弱性(Vulnerability)造成衝擊(Impact)的可能性(Likelihood)
 ```
 
 ### 風險評鑑(Assessment)
@@ -213,12 +206,8 @@ PDCA(Plan、Do、Check、Action)
 
 ```
 
-### 風險處理
+### 風險處理活動
 ```
-選擇控制
-
-有效追蹤
-
 降低(reduce)
 
 避免(Avoid)
@@ -251,15 +240,25 @@ PDCA(Plan、Do、Check、Action)
 
 ### 定義
 ```
-主體(Subject)
+• 主體(Subject)
+– 主動發起存取行為的個體
+– 通常為資料流的起點
+– 例如：使用者與處理程式
 
-物件(Object)
+• 物件(Object)
+– 被動存取的個體
+– 通常為資料的接收端與保存端
+– 例如：檔案、資料庫及處理程式
 
-存取(Access)
+• 存取(Access)
+– 主體對物件進行某些動作
+– 例如：讀取、修改、刪除、建立或執行
 
-存取規則(Access Rule)
+• 存取規則(Access Rule)
+– 可強制控管主體與物件之間存取路徑的控制機制
 
-信賴路徑(Trusted Path)
+• 信賴路徑(Trusted Path)
+– 確保主體可以存取到其所預期存取到之物件的路徑
 ```
 
 ### 類型
@@ -313,7 +312,7 @@ PDCA(Plan、Do、Check、Action)
 ```
 ## 3_2_身分認證
 
-### 因素
+### 三大因素
 ```
 所知之事，你知(Something you know)
 
@@ -321,6 +320,26 @@ PDCA(Plan、Do、Check、Action)
 
 所具之形，你是(Something you are)
 
+```
+
+### 驗證方法
+```
+OTP（One-Time Password）
+   https://zh.wikipedia.org/wiki/%E4%B8%80%E6%AC%A1%E6%80%A7%E5%AF%86%E7%A2%BC
+雜湊(Hashing)
+   https://zh.wikipedia.org/wiki/%E6%95%A3%E5%88%97
+鹽(Salt)
+   https://zh.wikipedia.org/wiki/%E7%9B%90_(%E5%AF%86%E7%A0%81%E5%AD%A6)
+對稱密鑰(Symmetric-key)
+   https://zh.wikipedia.org/wiki/%E5%B0%8D%E7%A8%B1%E5%AF%86%E9%91%B0%E5%8A%A0%E5%AF%86
+公開金鑰密碼學(Public-key cryptography)
+   https://zh.wikipedia.org/zh-tw/%E5%85%AC%E5%BC%80%E5%AF%86%E9%92%A5%E5%8A%A0%E5%AF%86
+數位簽章(Digital Signature)
+   https://zh.wikipedia.org/wiki/%E6%95%B8%E4%BD%8D%E7%B0%BD%E7%AB%A0
+數位憑證（digital certificate）
+   https://zh.wikipedia.org/wiki/%E5%85%AC%E9%96%8B%E9%87%91%E9%91%B0%E8%AA%8D%E8%AD%89
+數位憑證認證機構(Certificate Authority)
+   https://zh.wikipedia.org/wiki/%E8%AF%81%E4%B9%A6%E9%A2%81%E5%8F%91%E6%9C%BA%E6%9E%84
 ```
 # 主題四:事故管理與營運持續
 
