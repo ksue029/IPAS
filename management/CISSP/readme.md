@@ -10,7 +10,23 @@ CISSP®(Certified Information Systems Security Professional)
 ```
 # CISSP®資訊安全通識體系八大領域　
 ```
- Common Body of Knowledge (CBK)
+Common Body of Knowledge (CBK)：資訊安全通識體系八大領域
+
+Domain 1—安全暨風險管理Security Management　and Risk Management
+
+Domain 2—資產安全　Asset Security
+
+Domain 3—安全架構與工程　Security Engineering
+
+Domain 4—通訊及網路安全　Communication and Network Security
+
+Domain 5—識別暨存取控制　Identity and Access Management
+
+Domain 6—安全性評估與測試　Security Assessment and Testing
+
+Domain 7—安全性作業　Security Operations
+
+Domain 8—軟體開發安全性　Software Development Security
 ```
 ```
 Domain 1—安全暨風險管理
