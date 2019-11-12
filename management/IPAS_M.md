@@ -130,15 +130,21 @@ ISO/IEC 27043 — 數位證據的調查原理和工序
 ### 重要資安概念
 ```
 邊界與分類(Boundary and classification)
+
 職務區隔(Segregation of duties, SOD)
   https://en.wikipedia.org/wiki/Separation_of_duties
+  
 縱深防禦(Layered defense, defense in depth)
   https://en.wikipedia.org/wiki/Defence_in_depth
+  
 單一脆弱點(Single point of failure, SPOF)
   https://en.wikipedia.org/wiki/Single_point_of_failure
+  
 阿奇里斯腱(Achilles heel)
+
 木桶理論(Bucket principle）
    https://www.linkedin.com/pulse/20140817185525-243637-the-bucket-principle
+   
 僅知原則(Need to know)
    https://en.wikipedia.org/wiki/Need_to_know
 ```
