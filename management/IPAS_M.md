@@ -86,7 +86,7 @@ PDCA(Plan、Do、Check、Action)
 
 ### ISO 27000
 ```
-ISO/IEC 27000系列
+已發布的標準
 ISO/IEC 27000 — 資訊安全管理系統 - 綜述及詞彙
 ISO/IEC 27001 — 資訊安全管理系統 - 要求
 ISO/IEC 27002 — 資訊安全管理實踐準則
