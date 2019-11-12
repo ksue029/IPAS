@@ -358,9 +358,38 @@ OTP（One-Time Password）
 
 ## 4_2_備援與營運持續
 
+### 
+
 # 主題五:法規遵循與資訊倫理
 
 ## 5_1_隱私保護與智慧財產權
 
+### 個人資訊管理系統(PIMS)
+```
+https://en.wikipedia.org/wiki/Personal_information_manager
+```
+### ISO/IEC 29100
+```
+https://www.iso.org/standard/45123.html
+```
 ## 5_2_資訊倫理、法規遵循與稽核
 
+### 資訊倫理
+```
+http://web2.ypps.tp.edu.tw/yppsweb/rights/
+```
+
+### 法規遵循
+```
+智慧財產權(Intellectual Property Rights)
+專利法(Paten Law Treaty)
+商標法(Trademark Act)
+著作權(WIPO Copyright Treaty)
+```
+
+### 稽核類型
+```
+第一方稽查(內部稽查)
+第二方稽查(外部稽查)
+第三方稽查(驗證稽查)
+```
