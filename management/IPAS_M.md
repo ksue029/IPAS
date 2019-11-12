@@ -325,21 +325,21 @@ PDCA(Plan、Do、Check、Action)
 ### 驗證方法
 ```
 OTP（One-Time Password）
-   https://zh.wikipedia.org/wiki/%E4%B8%80%E6%AC%A1%E6%80%A7%E5%AF%86%E7%A2%BC
+   https://en.wikipedia.org/wiki/One-time_password
 雜湊(Hashing)
-   https://zh.wikipedia.org/wiki/%E6%95%A3%E5%88%97
+   https://en.wikipedia.org/wiki/Hash_function
 鹽(Salt)
-   https://zh.wikipedia.org/wiki/%E7%9B%90_(%E5%AF%86%E7%A0%81%E5%AD%A6)
+   https://en.wikipedia.org/wiki/Salt_(cryptography)
 對稱密鑰(Symmetric-key)
-   https://zh.wikipedia.org/wiki/%E5%B0%8D%E7%A8%B1%E5%AF%86%E9%91%B0%E5%8A%A0%E5%AF%86
+   https://en.wikipedia.org/wiki/Symmetric-key_algorithm
 公開金鑰密碼學(Public-key cryptography)
-   https://zh.wikipedia.org/zh-tw/%E5%85%AC%E5%BC%80%E5%AF%86%E9%92%A5%E5%8A%A0%E5%AF%86
+   https://en.wikipedia.org/wiki/Public-key_cryptography
 數位簽章(Digital Signature)
-   https://zh.wikipedia.org/wiki/%E6%95%B8%E4%BD%8D%E7%B0%BD%E7%AB%A0
+   https://en.wikipedia.org/wiki/Digital_signature
 數位憑證（digital certificate）
-   https://zh.wikipedia.org/wiki/%E5%85%AC%E9%96%8B%E9%87%91%E9%91%B0%E8%AA%8D%E8%AD%89
+   https://en.wikipedia.org/wiki/Public_key_certificate
 數位憑證認證機構(Certificate Authority)
-   https://zh.wikipedia.org/wiki/%E8%AF%81%E4%B9%A6%E9%A2%81%E5%8F%91%E6%9C%BA%E6%9E%84
+   https://en.wikipedia.org/wiki/Certificate_authority
 ```
 # 主題四:事故管理與營運持續
 
