@@ -188,28 +188,19 @@ PDCA(Plan、Do、Check、Action)
 ### 資訊資產蒐集與管理
 ```
 [1]蒐集資訊資產清冊
-
+– 硬體、軟體、資料、紙本、人員
 [2]分類群組
-
+– 將資訊資產進行分類
 [3]實作控管
-
+– 依不同分類群組進行不同管控
 [4]管理機制 
 ```
 ## 2_2_風險評鑑與風險處理
 
 ### 風險
 ```
-威脅(Threat)
-
-資產(Asset)
-
-價值(Value)
-
-脆弱性(Vulnerability)
-
-衝擊(Impact)
-
-可能性(Likelihood)
+威脅(Threat)利用資產(Asset)的脆弱性(Vulnerability)
+造成衝擊(Impact)的可能性(Likelihood)
 ```
 
 ### 風險評鑑(Assessment)
@@ -228,13 +219,109 @@ PDCA(Plan、Do、Check、Action)
 
 有效追蹤
 
+降低(reduce)
+
+避免(Avoid)
+
+接受(Accept)
+
+移轉(Transfer)
+
+```
+
+### 重要字辭
+```
+資產弱點
+– 資訊資產本身存在之特性，可被威脅利用而使得資訊資產遭受破壞。
+
+• 風險識別與分析
+– 可利用弱點，因而對資訊資產造成破壞的外在因素。
+– 各類弱點會因為不同威脅的發生而產生風險，故需考量威脅發生之重大性。
+
+• 可接受風險
+– 由資訊安全組織依所面臨之風險及所願意投入之資源，而決定風險可接受水準，以作為控管機制設計執行者
+
+• 殘餘風險管理（接受風險、移轉風險、降低風險、規避風險）
+– 當控管規範或機制增加或強化後，應重新評估風險權值，並重複執行辨認及降低風險步驟，直到降至風險可接受水準為止。
+
 ```
 # 主題三:存取控制與身分認證
 
 ## 3_1_存取控制與特權管理
 
+### 定義
+```
+主體(Subject)
+
+物件(Object)
+
+存取(Access)
+
+存取規則(Access Rule)
+
+信賴路徑(Trusted Path)
+```
+
+### 類型
+```
+實體類控制(Physical Controls)
+
+技術類控制(Technical Controls)
+
+管理類控制(Administrative Controls)
+
+```
+
+### 功能
+```
+防禦性(Preventive)
+
+偵測性(Detective)
+
+矯正性(Corrective)
+
+嚇阻性(Deterrent)
+
+復原性(Recovery)
+
+補償性(Compensation)
+
+```
+
+### 管理
+```
+身分識別(Identification)
+
+身分鑑別(Authentication)
+
+授權(Authorization)
+
+可歸責性(Accountability)
+
+```
+
+### 授權原則
+```
+業務需知原則/ 僅知(Need to know)
+
+最低權限原則(Least privilege)
+
+職務區隔(SOD)
+
+特殊權限管理
+
+```
 ## 3_2_身分認證
 
+### 因素
+```
+所知之事，你知(Something you know)
+
+所持之物，你有(Something you have)
+
+所具之形，你是(Something you are)
+
+```
 # 主題四:事故管理與營運持續
 
 ## 4_1_事件與事故管理
