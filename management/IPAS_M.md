@@ -31,10 +31,32 @@
 
 完整性(Integrity)
 
-可用性(Availability )
+可用性(Availability)
 ```
 ```
+可靠度(Reliability)
 
+有效性(Effectiveness)
+
+可歸責性(Accountability)
+
+不可否認性(Non-repudiation)
+
+ISO 27001/ISMS(資訊安全管理系統)
+
+PDCA(Plan、Do、Check、Action)
+
+政策(Policy)
+
+矯正措施(CAPA)
+
+控制項(Control Item)
+
+風險管理(Risk Management)
+
+教育訓練/意識(Training/Awareness)
+
+量測/績效(Measurement / Performance)
 ```
 
 ### 保護資訊C.I.A.不同的技術與方法
@@ -48,11 +70,11 @@
 – 數位簽章
 – 存取控制
 
-• 可用性保護 ???????
+• 可用性保護
 – 容量規劃
-– 備份??????
-– 容錯、備援及負載平衡??????
-– 存取控制 ??????
+– 備份
+– 容錯、備援及負載平衡
+– 存取控制
 
 • 法規的遵循
 ```
@@ -92,8 +114,10 @@ ISO 27799 — 健保業實施ISO/IEC 27002的資訊安全管理
 
 仍然在制定中的標準
 ISO/IEC 27014 — 資訊安全統治框架
-ISO/IEC 27017 — 雲端系統的資訊安全管理
-ISO/IEC 27018 — 雲端系統的資料保護
+
+ꝍ ISO/IEC 27017 — 雲端系統的資訊安全管理
+ꝍ ISO/IEC 27018 — 雲端系統的資料保護
+
 ISO/IEC 27033 — 資訊科技網路保安
 ISO/IEC 27036 — 供應關係的保安指導
 ISO/IEC 27038 — 數位檔案編譯的規格
@@ -105,7 +129,6 @@ ISO/IEC 27043 — 數位證據的調查原理和工序
 ```
 ### 重要資安概念
 ```
-
 邊界與分類(Boundary and classification)
 職務區隔(Segregation of duties, SOD)
   https://en.wikipedia.org/wiki/Separation_of_duties
@@ -114,9 +137,10 @@ ISO/IEC 27043 — 數位證據的調查原理和工序
 單一脆弱點(Single point of failure, SPOF)
   https://en.wikipedia.org/wiki/Single_point_of_failure
 阿奇里斯腱(Achilles heel)
-木桶理論(Bucker principle）
+木桶理論(Bucket principle）
    https://www.linkedin.com/pulse/20140817185525-243637-the-bucket-principle
 僅知原則(Need to know)
+   https://en.wikipedia.org/wiki/Need_to_know
 ```
 # 主題二:資產與風險管理
 
