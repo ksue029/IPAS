@@ -197,7 +197,7 @@ PDCA(Plan、Do、Check、Action)
 ```
 ## 2_2_風險評鑑與風險處理
 
-### 風險管理
+### 風險
 ```
 威脅(Threat)
 
@@ -212,6 +212,23 @@ PDCA(Plan、Do、Check、Action)
 可能性(Likelihood)
 ```
 
+### 風險評鑑(Assessment)
+```
+風險識別(identification)
+
+風險分析(analysis)
+
+風險評估(Evaluation)
+
+```
+
+### 風險處理
+```
+選擇控制
+
+有效追蹤
+
+```
 # 主題三:存取控制與身分認證
 
 ## 3_1_存取控制與特權管理
