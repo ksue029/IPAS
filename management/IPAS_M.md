@@ -126,7 +126,7 @@ ISO/IEC 27043 — 數位證據的調查原理和工序
 僅知原則(Need to know)
    https://en.wikipedia.org/wiki/Need_to_know
 ```
-### 重要名詞解釋
+### 重要字辭
 ```
 機密性 (Confidentiality)
 
