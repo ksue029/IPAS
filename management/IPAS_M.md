@@ -33,31 +33,7 @@
 
 可用性(Availability)
 ```
-```
-可靠度(Reliability)
 
-有效性(Effectiveness)
-
-可歸責性(Accountability)
-
-不可否認性(Non-repudiation)
-
-ISO 27001/ISMS(資訊安全管理系統)
-
-PDCA(Plan、Do、Check、Action)
-
-政策(Policy)
-
-矯正措施(CAPA)
-
-控制項(Control Item)
-
-風險管理(Risk Management)
-
-教育訓練/意識(Training/Awareness)
-
-量測/績效(Measurement / Performance)
-```
 
 ### 保護資訊C.I.A.不同的技術與方法
 ```
@@ -111,7 +87,9 @@ ISO/IEC 27034 — 應用程式保安的指導
 ISO/IEC 27035 — 保安事件管理
 ISO/IEC 27037 — 鑑別，收集並且（或者）獲得並儲存電子證物的指導
 ISO 27799 — 健保業實施ISO/IEC 27002的資訊安全管理
+```
 
+```
 仍然在制定中的標準
 ISO/IEC 27014 — 資訊安全統治框架
 
@@ -148,6 +126,40 @@ ISO/IEC 27043 — 數位證據的調查原理和工序
 僅知原則(Need to know)
    https://en.wikipedia.org/wiki/Need_to_know
 ```
+### 重要名詞解釋
+```
+機密性 (Confidentiality)
+
+完整性(Integrity)
+
+可用性(Availability)
+
+可靠度(Reliability)
+
+有效性(Effectiveness)
+
+可歸責性(Accountability)
+
+不可否認性(Non-repudiation)
+
+ISO 27001/ISMS(資訊安全管理系統)
+
+PDCA(Plan、Do、Check、Action)
+
+政策(Policy)
+
+矯正措施(CAPA)
+
+控制項(Control Item)
+
+風險管理(Risk Management)
+
+教育訓練/意識(Training/Awareness)
+
+量測/績效(Measurement / Performance)
+
+```
+
 # 主題二:資產與風險管理
 
 ## 2_1_資產分類分級與盤點
