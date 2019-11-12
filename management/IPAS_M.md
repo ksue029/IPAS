@@ -126,39 +126,6 @@ ISO/IEC 27043 — 數位證據的調查原理和工序
 僅知原則(Need to know)
    https://en.wikipedia.org/wiki/Need_to_know
 ```
-### 重要字辭
-```
-機密性 (Confidentiality)
-
-完整性(Integrity)
-
-可用性(Availability)
-
-可靠度(Reliability)
-
-有效性(Effectiveness)
-
-可歸責性(Accountability)
-
-不可否認性(Non-repudiation)
-
-ISO 27001/ISMS(資訊安全管理系統)
-
-PDCA(Plan、Do、Check、Action)
-
-政策(Policy)
-
-矯正措施(CAPA)
-
-控制項(Control Item)
-
-風險管理(Risk Management)
-
-教育訓練/意識(Training/Awareness)
-
-量測/績效(Measurement / Performance)
-
-```
 
 # 主題二:資產與風險管理
 
