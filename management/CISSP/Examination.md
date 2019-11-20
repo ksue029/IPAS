@@ -268,7 +268,7 @@ C. Knowledge‐based
 D. Behavior‐based
 ```
 # Chapter 1
-* Security Governance Through Principles and Policies
+## Security Governance Through Principles and Policies
 ```
 1. Which of the following contains the primary goals and objectives of security?
 A. A network’s border perimeter
@@ -402,7 +402,7 @@ C. Layering
 D. Transfer
 ```
 # Chapter 2 
-* Personnel Security and Risk Management Concepts
+## Personnel Security and Risk Management Concepts
 ```
 1. Which of the following is the weakest element in any security solution?
 A. Software products
@@ -542,7 +542,7 @@ c. Asset value
 d. Annualized rate of occurrence
 ```
 # Chapter 3
-* Business Continuity Planning 
+## Business Continuity Planning 
 ```
 1. What is the first step that individuals responsible for the development of a business continuity
 plan should perform?
@@ -690,7 +690,7 @@ C. Chief executive officer
 D. Business continuity manager
 ```
 # Chapter 4 
-* Laws, Regulations, and Compliance
+## Laws, Regulations, and Compliance
 ```
 1. Which criminal law was the first to implement penalties for the creators of viruses, worms,
 and other types of malicious code that cause harm to computer system(s)?
@@ -844,7 +844,7 @@ C. CFAA
 D. CCCA
 ```
 # Chapter 5
-* Protecting Security of Assets
+## Protecting Security of Assets
 ```
 1. Which one of the following identifies the primary a purpose of information classification
 processes?
@@ -992,7 +992,7 @@ C. Configuration management
 D. Versioning
 ```
 # Chapter 6
-* Cryptography and Symmetric Key Algorithms
+## Cryptography and Symmetric Key Algorithms
 ```
 1. How many possible keys exist in a 4-bit key space?
 A. 4
@@ -1130,7 +1130,7 @@ C. 45
 D. 100
 ```
 # Chapter 7
-* PKI and Cryptographic Applications
+## PKI and Cryptographic Applications
 ```
 1. In the RSA public key cryptosystem, which one of the following numbers will always be largest?
 A. e
@@ -1266,7 +1266,7 @@ C. The valid transition states in the Biba model
 D. TCSEC security categories
 ```
 # Chapter 8
-* Principles of Security Models, Design, and Capabilities
+## Principles of Security Models, Design, and Capabilities
 ```
 1. What is system certification?
 A. Formal acceptance of a stated system configuration
