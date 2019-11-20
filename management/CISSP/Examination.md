@@ -401,7 +401,8 @@ B. Processing
 C. Layering
 D. Transfer
 ```
-# Chapter 2 Personnel Security and Risk Management Concepts
+# Chapter 2 
+* Personnel Security and Risk Management Concepts
 ```
 1. Which of the following is the weakest element in any security solution?
 A. Software products
@@ -540,7 +541,8 @@ b. Single loss expectancy
 c. Asset value
 d. Annualized rate of occurrence
 ```
-# Chapter 3 Business Continuity Planning 
+# Chapter 3
+* Business Continuity Planning 
 ```
 1. What is the first step that individuals responsible for the development of a business continuity
 plan should perform?
@@ -687,7 +689,8 @@ B. Chief information officer
 C. Chief executive officer
 D. Business continuity manager
 ```
-# Chapter 4 Laws, Regulations, and Compliance
+# Chapter 4 
+* Laws, Regulations, and Compliance
 ```
 1. Which criminal law was the first to implement penalties for the creators of viruses, worms,
 and other types of malicious code that cause harm to computer system(s)?
@@ -840,6 +843,564 @@ B. CALEA
 C. CFAA
 D. CCCA
 ```
+# Chapter 5
+* Protecting Security of Assets
+```
+1. Which one of the following identifies the primary a purpose of information classification
+processes?
+A. Define the requirements for protecting sensitive data.
+B. Define the requirements for backing up data.
+C. Define the requirements for storing data.
+D. Define the requirements for transmitting data.
+
+2. When determining the classification of data, which one of the following is the most
+important consideration?
+A. Processing system
+B. Value
+C. Storage media
+D. Accessibility
+
+3. Which of the following answers would not be included as sensitive data?
+A. Personally identifiable information (PII)
+B. Protected health information (PHI)
+C. Proprietary data
+D. Data posted on a website
+
+4. What is the most important aspect of marking media?
+A. Date labeling
+B. Content description
+C. Electronic labeling
+D. Classification
+
+5. Which would an administrator do to classified media before reusing it in a less secure
+environment?
+A. Erasing
+B. Clearing
+C. Purging
+D. Overwriting
+
+6. Which of the following statements correctly identifies a problem with sanitization methods?
+A. Methods are not available to remove data ensuring that unauthorized personnel cannot
+retrieve data.
+B. Even fully incinerated media can offer extractable data.
+C. Personnel can perform sanitization steps improperly.
+D. Stored data is physically etched into the media.
+
+7. Which of the following choices is the most reliable method of destroying data on a solid
+state drive?
+A. Erasing
+B. Degaussing
+C. Deleting
+D. Purging
+
+8. Which of the following is the most secure method of deleting data on a DVD?
+A. Formatting
+B. Deleting
+C. Destruction
+D. Degaussing
+
+9. Which of the following does not erase data?
+A. Clearing
+B. Purging
+C. Overwriting
+D. Remanence
+
+10. Which one of the following is based on Blowfish and helps protect against rainbow table
+attacks?
+A. 3DES
+B. AES
+C. Bcrypt
+D. SCP
+
+11. Which one of the following would administrators use to connect to a remote server securely
+for administration?
+A. Telnet
+B. Secure File Transfer Protocol (SFTP)
+C. Secure Copy (SCP)
+D. Secure Shell (SSH)
+
+12. Which one of the following tasks would a custodian most likely perform?
+A. Access the data
+B. Classify the data
+C. Assign permissions to the data
+D. Back up data
+
+13. Which one of the following data roles is most likely to assign permissions to grant users
+access to data?
+A. Administrator
+B. Custodian
+C. Owner
+D. User
+
+14. Which of the following best defines “rules of behavior” established by a data owner?
+A. Ensuring users are granted access to only what they need
+B. Determining who has access to a system
+C. Identifying appropriate use and protection of data
+D. Applying security controls to a system
+
+15. Within the context of the European Union (EU) Data Protection law, what is a data
+processor?
+A. The entity that processes personal data on behalf of the data controller
+B. The entity that controls processing of data
+C. The computing system that processes data
+D. The network that processes data
+
+16. What do the principles of notice, choice, onward transfer, and access closely apply to?
+A. Privacy
+B. Identification
+C. Retention
+D. Classification
+
+17. An organization is implementing a preselected baseline of security controls, but finds not
+all of the controls apply. What should they do?
+A. Implement all of the controls anyway.
+B. Identify another baseline.
+C. Re-create a baseline.
+D. Tailor the baseline to their needs.
+
+Refer the following scenario when answering questions 18 through 20.
+An organization has a datacenter manned 24 hours a day that processes highly sensitive
+information. The datacenter includes email servers, and administrators purge
+email older than six months to comply with the organization’s security policy. Access
+to the datacenter is controlled, and all systems that process sensitive information are
+marked. Administrators routinely back up data processed in the datacenter. They keep
+a copy of the backups on site and send an unmarked copy to one of the company warehouses.
+Warehouse workers organize the media by date, and they have backups from
+the last 20 years. Employees work at the warehouse during the day and lock it when
+they leave at night and over the weekends. Recently a theft at the warehouse resulted in
+the loss of all of the offsite backup tapes. Later, copies of their data, including sensitive
+emails from years ago, began appearing on Internet sites, exposing the organization’s
+internal sensitive data.
+
+18. Of the following choices, what would have prevented this loss without sacrificing
+security?
+A. Mark the media kept offsite.
+B. Don’t store data offsite.
+C. Destroy the backups offsite.
+D. Use a secure offsite storage facility.
+
+19. Which of the following administrator actions might have prevented this incident?
+A. Mark the tapes before sending them to the warehouse.
+B. Purge the tapes before backing up data to them.
+C. Degauss the tapes before backing up data to them.
+D. Add the tapes to an asset management database.
+
+20. Of the following choices, what policy was not followed regarding the backup media?
+A. Media destruction
+B. Record retention
+C. Configuration management
+D. Versioning
+```
+# Chapter 6
+* Cryptography and Symmetric Key Algorithms
+```
+1. How many possible keys exist in a 4-bit key space?
+A. 4
+B. 8
+C. 16
+D. 128
+
+2. John recently received an email message from Bill. What cryptographic goal would need to
+be met to convince John that Bill was actually the sender of the message?
+A. Nonrepudiation
+B. Confidentiality
+C. Availability
+D. Integrity
+
+3. What is the length of the cryptographic key used in the Data Encryption Standard (DES)
+cryptosystem?
+A. 56 bits
+B. 128 bits
+C. 192 bits
+D. 256 bits
+
+4. What type of cipher relies on changing the location of characters within a message to
+achieve confidentiality?
+A. Stream cipher
+B. Transposition cipher
+C. Block cipher
+D. Substitution cipher
+
+5. Which one of the following is not a possible key length for the Advanced Encryption Standard
+Rijndael cipher?
+A. 56 bits
+B. 128 bits
+C. 192 bits
+D. 256 bits
+
+6. Which one of the following cannot be achieved by a secret key cryptosystem?
+A. Nonrepudiation
+B. Confidentiality
+C. Availability
+D. Key distribution
+
+7. When correctly implemented, what is the only cryptosystem known to be unbreakable?
+A. Transposition cipher
+B. Substitution cipher
+C. Advanced Encryption Standard
+D. One-time pad
+
+8. What is the output value of the mathematical function 16 mod 3 ?
+A. 0
+B. 1
+C. 3
+D. 5
+
+9. In the 1940s, a team of cryptanalysts from the United States successfully broke a Soviet
+code based on a one-time pad in a project known as VENONA. What rule did the Soviets
+break that caused this failure?
+A. Key values must be random.
+B. Key values must be the same length as the message.
+C. Key values must be used only once.
+D. Key values must be protected from physical disclosure.
+
+10. Which one of the following cipher types operates on large pieces of a message rather than
+individual characters or bits of a message?
+A. Stream cipher
+B. Caesar cipher
+C. Block cipher
+D. ROT3 cipher
+
+11. What is the minimum number of cryptographic keys required for secure two-way communications
+in symmetric key cryptography?
+A. One
+B. Two
+C. Three
+D. Four
+
+12. Dave is developing a key escrow system that requires multiple people to retrieve a key
+but does not depend on every participant being present. What type of technique is he
+using?
+A. Split knowledge
+B. M of N Control
+C. Work function
+D. Zero-knowledge proof
+
+13. Which one of the following Data Encryption Standard (DES) operating modes can be used
+for large messages with the assurance that an error early in the encryption/decryption
+process won’t spoil results throughout the communication?
+A. Cipher Block Chaining (CBC)
+B. Electronic Codebook (ECB)
+C. Cipher Feedback (CFB)
+D. Output Feedback (OFB)
+
+14. Many cryptographic algorithms rely on the difficulty of factoring the product of large
+prime numbers. What characteristic of this problem are they relying on?
+A. It contains diffusion.
+B. It contains confusion.
+C. It is a one-way function.
+D. It complies with Kerchoff’s principle.
+
+15. How many keys are required to fully implement a symmetric algorithm with
+10 participants?
+A. 10
+B. 20
+C. 45
+D. 100
+
+16. What block size is used by the Advanced Encryption Standard?
+A. 32 bits
+B. 64 bits
+C. 128 bits
+D. Variable
+
+17. What kind of attack makes the Caesar cipher virtually unusable?
+A. Meet-in-the-middle attack
+B. Escrow attack
+C. Frequency analysis attack
+D. Transposition attack
+
+18. What type of cryptosystem commonly makes use of a passage from a well-known book for
+the encryption key?
+A. Vernam cipher
+B. Running key cipher
+C. Skipjack cipher
+D. Twofish cipher
+19. Which AES finalist makes use of prewhitening and postwhitening techniques?
+A. Rijndael
+B. Twofish
+C. Blowfish
+D. Skipjack
+
+20. How many encryption keys are required to fully implement an asymmetric algorithm with
+10 participants?
+A. 10
+B. 20
+C. 45
+D. 100
+```
+# Chapter 7
+* PKI and Cryptographic Applications
+```
+1. In the RSA public key cryptosystem, which one of the following numbers will always be largest?
+A. e
+B. n
+C. p
+D. q
+
+2. Which cryptographic algorithm forms the basis of the El Gamal cryptosystem?
+A. RSA
+B. Diffie-Hellman
+C. 3DES
+D. IDEA
+
+3. If Richard wants to send an encrypted message to Sue using a public key cryptosystem,
+which key does he use to encrypt the message?
+A. Richard’s public key
+B. Richard’s private key
+C. Sue’s public key
+D. Sue’s private key
+
+4. If a 2,048-bit plaintext message were encrypted with the El Gamal public key cryptosystem,
+how long would the resulting ciphertext message be?
+A. 1,024 bits
+B. 2,048 bits
+C. 4,096 bits
+D. 8,192 bits
+
+5. Acme Widgets currently uses a 1,024-bit RSA encryption standard companywide. The
+company plans to convert from RSA to an elliptic curve cryptosystem. If it wants to
+maintain the same cryptographic strength, what ECC key length should it use?
+A. 160 bits
+B. 512 bits
+C. 1,024 bits
+D. 2,048 bits
+
+6. John wants to produce a message digest of a 2,048-byte message he plans to send to Mary.
+If he uses the SHA-1 hashing algorithm, what size will the message digest for this particular
+message be?
+A. 160 bits
+B. 512 bits
+C. 1,024 bits
+D. 2,048 bits
+
+7. Which one of the following technologies is considered flawed and should no longer be used?
+A. SHA-2
+B. PGP
+C. WEP
+D. TLS
+
+8. What encryption technique does WPA use to protect wireless communications?
+A. TKIP
+B. DES
+C. 3DES
+D. AES
+
+9. Richard received an encrypted message sent to him from Sue. Which key should he use to
+decrypt the message?
+A. Richard’s public key
+B. Richard’s private key
+C. Sue’s public key
+D. Sue’s private key
+
+10. Richard wants to digitally sign a message he’s sending to Sue so that Sue can be sure the
+message came from him without modification while in transit. Which key should he use to
+encrypt the message digest?
+A. Richard’s public key
+B. Richard’s private key
+C. Sue’s public key
+D. Sue’s private key
+
+11. Which one of the following algorithms is not supported by the Digital Signature Standard?
+A. Digital Signature Algorithm
+B. RSA
+C. El Gamal DSA
+D. Elliptic Curve DSA
+
+12. Which International Telecommunications Union (ITU) standard governs the creation and
+endorsement of digital certificates for secure electronic communication?
+A. X.500
+B. X.509
+C. X.900
+D. X.905
+
+13. What cryptosystem provides the encryption/decryption technology for the commercial
+version of Phil Zimmerman’s Pretty Good Privacy secure email system?
+A. ROT13
+B. IDEA
+C. ECC
+D. El Gamal
+
+14. What TCP/IP communications port is used by Transport Layer Security traffic?
+A. 80
+B. 220
+C. 443
+D. 559
+
+15. What type of cryptographic attack rendered Double DES (2DES) no more effective than
+standard DES encryption?
+A. Birthday attack
+B. Chosen ciphertext attack
+C. Meet-in-the-middle attack
+D. Man-in-the-middle attack
+
+16. Which of the following tools can be used to improve the effectiveness of a brute-force password
+cracking attack?
+A. Rainbow tables
+B. Hierarchical screening
+C. TKIP
+D. Random enhancement
+
+17. Which of the following links would be protected by WPA encryption?
+A. Firewall to firewall
+B. Router to firewall
+C. Client to wireless access point
+D. Wireless access point to router
+
+18. What is the major disadvantage of using certificate revocation lists?
+A. Key management
+B. Latency
+C. Record keeping
+D. Vulnerability to brute-force attacks
+
+19. Which one of the following encryption algorithms is now considered insecure?
+A. El Gamal
+B. RSA
+C. Skipjack
+D. Merkle-Hellman Knapsack
+
+20. What does IPsec define?
+A. All possible security classifications for a specific configuration
+B. A framework for setting up a secure communication channel
+C. The valid transition states in the Biba model
+D. TCSEC security categories
+```
+# Chapter 8
+* Principles of Security Models, Design, and Capabilities
+```
+1. What is system certification?
+A. Formal acceptance of a stated system configuration
+B. A technical evaluation of each part of a computer system to assess its compliance with
+security standards
+C. A functional evaluation of the manufacturer’s goals for each hardware and software
+component to meet integration standards
+D. A manufacturer’s certificate stating that all components were installed and configured
+correctly
+
+2. What is system accreditation?
+A. Formal acceptance of a stated system configuration
+B. A functional evaluation of the manufacturer’s goals for each hardware and software
+component to meet integration standards
+C. Acceptance of test results that prove the computer system enforces the security policy
+D. The process to specify secure communication between machines
+
+3. What is a closed system?
+A. A system designed around final, or closed, standards
+B. A system that includes industry standards
+C. A proprietary system that uses unpublished protocols
+D. Any machine that does not run Windows
+
+4. Which best describes a confined or constrained process?
+A. A process that can run only for a limited time
+B. A process that can run only during certain times of the day
+C. A process that can access only certain memory locations
+D. A process that controls access to an object
+
+5. What is an access object?
+A. A resource a user or process wants to access
+B. A user or process that wants to access a resource
+C. A list of valid access rules
+D. The sequence of valid access types
+
+6. What is a security control?
+A. A security component that stores attributes that describe an object
+B. A document that lists all data classification types
+C. A list of valid access rules
+D. A mechanism that limits access to an object
+
+7. For what type of information system security accreditation are the applications and systems
+at a specific, self-contained location evaluated?
+A. System accreditation
+B. Site accreditation
+C. Application accreditation
+D. Type accreditation
+
+8. How many major categories do the TCSEC criteria define?
+A. Two
+B. Three
+C. Four
+D. Five
+
+9. What is a trusted computing base (TCB)?
+A. Hosts on your network that support secure transmissions
+B. The operating system kernel and device drivers
+C. The combination of hardware, software, and controls that work together to enforce a
+security policy
+D. The software and controls that certify a security policy
+
+10. What is a security perimeter? (Choose all that apply.)
+A. The boundary of the physically secure area surrounding your system
+B. The imaginary boundary that separates the TCB from the rest of the system
+C. The network where your firewall resides
+D. Any connections to your computer system
+
+11. What part of the TCB concept validates access to every resource prior to granting the
+requested access?
+A. TCB partition
+B. Trusted library
+C. Reference monitor
+D. Security kernel
+
+12. What is the best definition of a security model?
+A. A security model states policies an organization must follow.
+B. A security model provides a framework to implement a security policy.
+C. A security model is a technical evaluation of each part of a computer system to assess
+its concordance with security standards.
+D. A security model is the process of formal acceptance of a certified configuration.
+
+13. Which security models are built on a state machine model?
+A. Bell-LaPadula and Take-Grant
+B. Biba and Clark-Wilson
+C. Clark-Wilson and Bell-LaPadula
+D. Bell-LaPadula and Biba
+
+14. Which security model addresses data confidentiality?
+A. Bell-LaPadula
+B. Biba
+C. Clark-Wilson
+D. Brewer and Nash
+
+15. Which Bell-LaPadula property keeps lower-level subjects from accessing objects with a
+higher security level?
+A. (star) Security Property
+B. No write up property
+C. No read up property
+D. No read down property
+
+16. What is the implied meaning of the simple property of Biba?
+A. Write down
+B. Read up
+C. No write up
+D. No read down
+
+17. When a trusted subject violates the star property of Bell-LaPadula in order to write an
+object into a lower level, what valid operation could be taking place?
+A. Perturbation
+B. Polyinstantiation
+C. Aggregation
+D. Declassification
+
+18. What security method, mechanism, or model reveals a capabilities list of a subject across
+multiple objects?
+A. Separation of duties
+B. Access control matrix
+C. Biba
+D. Clark-Wilson
+
+19. What security model has a feature that in theory has one name or label, but when implemented
+into a solution, takes on the name or label of the security kernel?
+A. Graham-Denning model
+B. Deployment modes
+C. Trusted computing base
+D. Chinese Wall
+
+20. Which of the following is not part of the access control relationship of the Clark-Wilson
+model?
+A. Object
+B. Interface
+C. Programming language
+D. Subject
+```
 # Answer
 ## Assessment Test
 ```
@@ -865,6 +1426,10 @@ D. CCCA
 
 ```
 ## Chapter 4
+```
+
+```
+## Chapter 5
 ```
 
 ```
