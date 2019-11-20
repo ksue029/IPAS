@@ -3220,21 +3220,148 @@ D. Packets with external source IP addresses don’t enter the network from the 
 ```
 ## Chapter 1
 ```
-
+1.B 2.A 3.B 4.C 5.C
+6.D 7.C 8.C 9.D 10.D
+11.C 12.B 13.A 14.D 15.B
+16.B 17.A 18.B 19.B 20.C
 ```
 ## Chapter 2
 ```
-
+1.D 2.A 3.B 4.B 5.B
+6.D 7.C 8.C 9.D 10.A
+11.A 12.B 13.C 14.B 15.A
+16.C 17.C 18.A 19.B 20.D
 ```
 ## Chapter 3
 ```
-
+1.B 2.B 3.C 4.D 5.A
+6.C 7.C 8.B 9.D 10.A
+11.C 12.D 13.C 14.B 15.C
+16.C 17.D 18.C 19.A 20.C
 ```
 ## Chapter 4
 ```
-
+1.C 2.A 3.D 4.C 5.C
+6.B 7.A 8.D 9.C 10.A
+11.B 12.A 13.A 14.C 15.B
+16.B 17.C 18.C 19.C 20.A
 ```
 ## Chapter 5
 ```
-
+1.A 2.B 3.D 4.D 5.C
+6.C 7.D 8.C 9.D 10.C
+11.D 12.D 13.A 14.C 15.A
+16.A 17.D 18.D 19.A 20.B
+```
+## Chapter 6
+```
+1.C 2.A 3.A 4.B 5.A
+6.A 7.D 8.B 9.A 10.C
+11.A 12.B 13.D 14.C 15.C
+16.C 17.C 18.B 19.B 20.B
+```
+## Chapter 7
+```
+1.B 2.B 3.C 4.C 5.A
+6.A 7.C 8.A 9.B 10.B
+11.C 12.B 13.B 14.C 15.C
+16.A 17.C 18.B 19.D 20.B
+```
+## Chapter 8
+```
+1.B 2.A 3.C 4.C 5.A
+6.D 7.B 8.C 9.C 10.A,B
+11.C 12.B 13.D 14.A 15.C
+16.B 17.D 18.B 19.C 20.C
+```
+## Chapter 9
+```
+1.C 2.B 3.A 4.A 5.C
+6.B 7.C 8.C 9.B 10.A
+11.C 12.B 13.C 14.B 15.C 
+16.B 17.D 18.C 19.D 20.A
+```
+## Chapter 10
+```
+1.A 2.B 3.B 4.D 5.A
+6.C 7.C 8.D 9.A 10.B
+11.C 12.D 13.A 14.B 15.C
+16.B 17.D 18.A 19.C 20.D
+```
+## Chapter 11
+```
+1.D 2.B 3.B 4.B 5.D
+6.B 7.C 8.A 9.B 10.B
+11.C 12.B 13.B 14.C 15.B
+16.A 17.C 18.A 19.C 20.C
+```
+## Chapter 12
+```
+1.B 2.D 3.C 4.B 5.D
+6.B 7.A,B,D 8.D 9.A 10.D
+11.B 12.B 13.D 14.B 15.B
+16.B 17.B 18.C 19.C 20.A
+```
+## Chapter 13
+```
+1.E 2.C 3.A 4.B 5.A
+6.D 7.D 8.B 9.B 10.A
+11.A 12.B 13.C 14.A 15.C
+16.D 17.B 18.B 19.D 20.D
+```
+## Chapter 14
+```
+1.B 2.C 3.B 4.D 5.A
+6.D 7.D 8.A 9.D 10.D
+11.C 12.C 13.D 14.D 15.C
+16.B 17.B 18.C 19.B 20.A
+```
+## Chapter 15
+```
+1.A 2.D 3.C 4.C 5.A
+6.B 7.B 8.B 9.D 10.C
+11.D 12.C 13.B 14.C 15.A
+16.B 17.B 18.B 19.C 20.B
+```
+## Chapter 16
+```
+1.C 2.D 3.C 4.B 5.A
+6.B 7.A,B,C 8.B 9.A 10.C
+11.A 12.D 13.A 14.C 15.B
+16.B 17.A 18.D 19.C 20.B
+```
+## Chapter 17
+```
+1.A 2.D 3.4.C 5.B
+6.A 7.A 8.B 9.B 10.C
+11.B 12.B 13.B 14.B 15.A
+16.B 17.B 18.D 19.C 20.A
+```
+## Chapter 18
+```
+1.C 2.C 3.D 4.B 5.C
+6.C 7.B 8.D 9.C 10.B
+11.C 12.C 13.D 14.D 15.A
+16.D 17.A 18.C 19.A 20.B
+```
+## Chapter 19
+```
+1.C 2.B 3.A 4.B 5.B
+6.D 7.8.C 9.D 10.B,D
+11.D 12.B 13.A 14.C 15.B
+16.A 17.A,D 18.D 19.B 20.B
+```
+## Chapter 20
+```
+1.A 2.B 3.C 4.C 5.B
+6.A 7.C 8.D 9.C 10.D
+11.C 12.D 13.B 14.A 15.A
+16.C 17.A 18.C 19.C 20.B
+```
+## Chapter 21
+```
+1.A 2.B 3.B 4.D 5.A
+6.A 7.D 8.D 9.B 10.D
+11.B 12.B 13.A 14.D 15.B
+16.A 17.B 18.D 19.D 20.A
 ```
