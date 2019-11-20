@@ -267,12 +267,582 @@ B. Network‐based
 C. Knowledge‐based
 D. Behavior‐based
 ```
-
-
-
-# Answer
+# Chapter 1
+* Security Governance Through Principles and Policies
 ```
-Assessment Test
+1. Which of the following contains the primary goals and objectives of security?
+A. A network’s border perimeter
+B. The CIA Triad
+C. A stand-alone system
+D. The Internet
+
+2. Vulnerabilities and risks are evaluated based on their threats against which of the
+following?
+A. One or more of the CIA Triad principles
+B. Data usefulness
+C. Due care
+D. Extent of liability
+
+3. Which of the following is a principle of the CIA Triad that means authorized subjects are
+granted timely and uninterrupted access to objects?
+A. Identification
+B. Availability
+C. Encryption
+D. Layering
+
+4. Which of the following is not considered a violation o t f confidentiality?
+A. Stealing passwords
+B. Eavesdropping
+C. Hardware destruction
+D. Social engineering
+
+5. Which of the following is not true?
+A. Violations of confidentiality include human error.
+B. Violations of confidentiality include management oversight.
+C. Violations of confidentiality are limited to direct intentional attacks.
+D. Violations of confidentiality can occur when a transmission is not properly encrypted.
+
+6. STRIDE is often used in relation to assessing threats against applications or operating
+systems. Which of the following is not an element of STRIDE?
+A. Spoofing
+B. Elevation of privilege
+C. Repudiation
+D. Disclosure
+
+7. If a security mechanism offers availability, then it offers a high level of assurance that
+authorized subjects can _________________________ the data, objects, and resources.
+A. Control
+B. Audit
+C. Access
+D. Repudiate
+
+8. ___________ refers to keeping information confidential that is personally identifiable or
+which might cause harm, embarrassment, or disgrace to someone if revealed.
+A. Seclusion
+B. Concealment
+C. Privacy
+D. Criticality
+
+9. All but which of the following items requires awareness for all individuals affected?
+A. Restricting personal email
+B. Recording phone conversations
+C. Gathering information about surfing habits
+D. The backup mechanism used to retain email messages
+
+10. What element of data categorization management can override all other forms of access
+control?
+A. Classification
+B. Physical access
+C. Custodian responsibilities
+D. Taking ownership
+
+11. What ensures that the subject of an activity or event cannot deny that the event occurred?
+A. CIA Triad
+B. Abstraction
+C. Nonrepudiation
+D. Hash totals
+
+12. Which of the following is the most important and distinctive concept in relation to layered
+security?
+A. Multiple
+B. Series
+C. Parallel
+D. Filter
+
+13. Which of the following is not considered t an example of data hiding?
+A. Preventing an authorized reader of an object from deleting that object
+B. Keeping a database from being accessed by unauthorized visitors
+C. Restricting a subject at a lower classification level from accessing data at a higher classification
+level
+D. Preventing an application from accessing hardware directly
+
+14. What is the primary goal of change management?
+A. Maintaining documentation
+B. Keeping users informed of changes
+C. Allowing rollback of failed changes
+D. Preventing security compromises
+
+15. What is the primary objective of data classification schemes?
+A. To control access to objects for authorized subjects
+B. To formalize and stratify the process of securing data based on assigned labels of
+importance and sensitivity
+C. To establish a transaction trail for auditing accountability
+D. To manipulate access controls to provide for the most efficient means to grant or
+restrict functionality
+
+16. W hich of the following is typically not a characteristic considered when classifying data?
+A. Value
+B. Size of object
+C. Useful lifetime
+D. National security implications
+
+17. What are the two common data classification schemes?
+A. Military and private sector
+B. Personal and government
+C. Private sector and unrestricted sector
+D. Classified and unclassified
+
+18. Which of the following is the lowest military data classification for classified data?
+A. Sensitive
+B. Secret
+C. Proprietary
+D. Private
+
+19. Which commercial business/private sector data classification is used to control information
+about individuals within an organization?
+A. Confidential
+B. Private
+C. Sensitive
+D. Proprietary
+
+20. Data classifications are used to focus security controls over all but which of the following?
+A. Storage
+B. Processing
+C. Layering
+D. Transfer
+```
+# Chapter 2 Personnel Security and Risk Management Concepts
+```
+1. Which of the following is the weakest element in any security solution?
+A. Software products
+B. Internet connections
+C. Security policies
+D. Humans
+
+2. When seeking to hire new employees, what is the first step?
+A. Create a job description.
+B. Set position classification.
+C. Screen candidates.
+D. Request resumes.
+
+3. Which of the following is a primary purpose of an exit interview?
+A. To return the exiting employee’s personal belongings
+B. To review the nondisclosure agreement
+C. To evaluate the exiting employee’s performance
+D. To cancel the exiting employee’s network access accounts
+
+4. When an employee is to be terminated, which of the following should be done?
+A. Inform the employee a few hours before they are officially terminated.
+B. Disable the employee’s network access just as they are informed of the termination.
+C. Send out a broadcast email informing everyone that a specific employee is to be terminated.
+D. Wait until you and the employee are the only people remaining in the building before
+announcing the termination.
+
+5. If an organization contracts with outside entities to provide key business functions or services,
+such as account or technical support, what is the process called that is used to ensure
+that these entities support sufficient security?
+A. Asset identification
+B. Third-party governance
+C. Exit interview
+D. Qualitative analysis
+
+6. A portion of the ______________ is the logical and practical investigation of business processes
+and organizational policies. This process/policy review ensures that the stated and
+implemented business tasks, systems, and methodologies are practical, efficient, cost-effective,
+but most of all (at least in relation to security governance) that they support security
+through the reduction of vulnerabilities and the avoidance, reduction, or mitigation of risk.
+A. Hybrid assessment
+B. Risk aversion process
+C. Countermeasure selection
+D. Documentation review
+
+7. Which of the following statements is not true?
+A. IT security can provide protection only against logical or technical attacks.
+B. The process by which the goals of risk management are achieved is known as risk analysis.
+C. Risks to an IT infrastructure are all computer based.
+D. An asset is anything used in a business process or task.
+
+8. Which of the following is n ot an element of the risk analysis process?
+A. Analyzing an environment for risks
+B. Creating a cost/benefit report for safeguards to present to upper management
+C. Selecting appropriate safeguards and implementing them
+D. Evaluating each threat event as to its likelihood of occurring and cost of the resulting
+damage
+
+9. Which of the following would generally not be considered an asset in a risk analysis?
+A. A development process
+B. An IT infrastructure
+C. A proprietary system resource
+D. Users’ personal files
+
+10. Which of the following represents accidental or intentional exploitations of vulnerabilities?
+A. Threat events
+B. Risks
+C. Threat agents
+D. Breaches
+
+11. When a safeguard or a countermeasure is not present or is not sufficient, what remains?
+A. Vulnerability
+B. Exposure
+C. Risk
+D. Penetration
+
+12. W hich of the following is not a valid definition for risk?
+A. An assessment of probability, possibility, or chance
+B. Anything that removes a vulnerability or protects against one or more specific threats
+C. Risk = threat * vulnerability
+D. Every instance of exposure
+
+13. When evaluating safeguards, what is the rule that should be followed in most cases?
+A. The expected annual cost of asset loss should not exceed the annual costs of
+safeguards.
+B. The annual costs of safeguards should equal the value of the asset.
+C. The annual costs of safeguards should not exceed the expected annual cost of asset
+loss.
+D. The annual costs of safeguards should not exceed 10 percent of the security budget.
+
+14. How is single loss expectancy (SLE) calculated?
+A. Threat + vulnerability
+B. Asset value ($) * exposure factor
+C. Annualized rate of occurrence * vulnerability
+D. Annualized rate of occurrence * asset value * exposure factor
+
+15. How is the value of a safeguard to a company calculated?
+A. ALE before safeguard - ALE after implementing the safeguard - annual cost of
+safeguard
+B. ALE before safeguard * ARO of safeguard
+C. ALE after implementing safeguard + annual cost of safeguard - controls gap
+D. Total risk - controls gap
+
+16. What security control is directly focused on preventing collusion?
+A. Principle of least privilege
+B. Job descriptions
+C. Separation of duties
+D. Qualitative risk analysis
+
+17. What process or event is typically hosted by an organization and is targeted to groups of
+employees with similar job functions?
+A. Education
+B. Awareness
+C. Training
+D. Termination
+
+18. Which of the following is not specifically or directly related to managing t the security function
+of an organization?
+A. Worker job satisfaction
+B. Metrics
+C. Information security strategies
+D. Budget
+
+19. While performing a risk analysis, you identify a threat of fire and a vulnerability because
+there are no fire extinguishers. Based on this information, which of the following is a
+possible risk?
+A. Virus infection
+B. Damage to equipment
+C. System malfunction
+D. Unauthorized access to confidential information
+
+20. You’ve performed a basic quantitative risk analysis on a specific threat/vulnerability/risk
+relation. You select a possible countermeasure. When performing the calculations again,
+which of the following factors will change?
+a. Exposure factor
+b. Single loss expectancy
+c. Asset value
+d. Annualized rate of occurrence
+```
+# Chapter 3 Business Continuity Planning 
+```
+1. What is the first step that individuals responsible for the development of a business continuity
+plan should perform?
+A. BCP team selection
+B. Business organization analysis
+C. Resource requirements analysis
+D. Legal and regulatory assessment
+
+2. Once the BCP team is selected, what should be the first item placed on the team’s agenda?
+A. Business impact assessment
+B. Business organization analysis
+C. Resource requirements analysis
+D. Legal and regulatory assessment
+
+3. What is the term used to describe the responsibility of a firm’s officers and directors to
+ensure that adequate measures are in place to minimize the effect of a disaster on the
+organization’s continued viability?
+A. Corporate responsibility
+B. Disaster requirement
+C. Due diligence
+D. Going concern responsibility
+
+4. What will be the major resource consumed by the BCP process during the BCP phase?
+A. Hardware
+B. Software
+C. Processing time
+D. Personnel
+
+5. What unit of measurement should be used to assign quantitative values to assets in the
+priority identification phase of the business impact assessment?
+A. Monetary
+B. Utility
+C. Importance
+D. Time
+
+6. Which one of the following BIA terms identifies the amount of money a business expects to
+lose to a given risk each year?
+A. ARO
+B. SLE
+C. ALE
+D. EF
+
+7. What BIA metric can be used to express the longest time a business function can be
+unavailable without causing irreparable harm to the organization?
+A. SLE
+B. EF
+C. MTD
+D. ARO
+
+8. You are concerned about the risk that an avalanche poses to your $3 million shipping
+facility. Based on expert opinion, you determine that there is a 5 percent chance that an
+avalanche will occur each year. Experts advise you that an avalanche would completely
+destroy your building and require you to rebuild on the same land. Ninety percent of the $3
+million value of the facility is attributed to the building and 10 percent is attributed to the
+land itself. What is the single loss expectancy of your shipping facility to avalanches?
+A. $3,000,000
+B. $2,700,000
+C. $270,000
+D. $135,000
+
+9. Referring to the scenario in question 8, what is the annualized loss expectancy?
+A. $3,000,000
+B. $2,700,000
+C. $270,000
+D. $135,000
+
+10. You are concerned about the risk that a hurricane poses to your corporate headquarters
+in South Florida. The building itself is valued at $15 million. After consulting with the
+National Weather Service, you determine that there is a 10 percent likelihood that a hurricane
+will strike over the course of a year. You hired a team of architects and engineers
+who determined that the average hurricane would destroy approximately 50 percent of the
+building. What is the annualized loss expectancy (ALE)?
+A. $750,000
+B. $1.5 million
+C. $7.5 million
+D. $15 million
+
+11. Which task of BCP bridges the gap between the business impact assessment and the continuity
+planning phases?
+A. Resource prioritization
+B. Likelihood assessment
+C. Strategy development
+D. Provisions and processes
+
+12. Which resource should you protect first when designing continuity plan provisions and
+processes?
+A. Physical plant
+B. Infrastructure
+C. Financial
+D. People
+
+13. Which one of the following concerns is not suitable for quantitative measurement during
+the business impact assessment?
+A. Loss of a plant
+B. Damage to a vehicle
+C. Negative publicity
+D. Power outage
+
+14. Lighter Than Air Industries expects that it would lose $10 million if a tornado struck its
+aircraft operations facility. It expects that a tornado might strike the facility once every
+100 years. What is the single loss expectancy for this scenario?
+A. 0.01
+B. $10,000,000
+C. $100,000
+D. 0.10
+
+15. Referring to the scenario in question 14, what is the annualized loss expectancy?
+A. 0.01
+B. $10,000,000
+C. $100,000
+D. 0.10
+
+16. In which business continuity planning task would you actually design procedures and
+mechanisms to mitigate risks deemed unacceptable by the BCP team?
+A. Strategy development
+B. Business impact assessment
+C. Provisions and processes
+D. Resource prioritization
+
+17. What type of mitigation provision is utilized when redundant communications links are
+installed?
+A. Hardening systems
+B. Defining systems
+C. Reducing systems
+D. Alternative systems
+
+18. What type of plan outlines the procedures to follow when a disaster interrupts the normal
+operations of a business?
+A. Business continuity plan
+B. Business impact assessment
+C. Disaster recovery plan
+D. Vulnerability assessment
+
+19. What is the formula used to compute the single loss expectancy for a risk scenario?
+A. SLE = AV × EF
+B. SLE = RO × EF
+C. SLE = AV × ARO
+D. SLE = EF × ARO
+
+20. Of the individuals listed, who would provide the best endorsement for a business continuity
+plan’s statement of importance?
+A. Vice president of business operations
+B. Chief information officer
+C. Chief executive officer
+D. Business continuity manager
+```
+# Chapter 4 Laws, Regulations, and Compliance
+```
+1. Which criminal law was the first to implement penalties for the creators of viruses, worms,
+and other types of malicious code that cause harm to computer system(s)?
+A. Computer Security Act
+B. National Infrastructure Protection Act
+C. Computer Fraud and Abuse Act
+D. Electronic Communications Privacy Act
+
+2. Which law first required operators of federal interest computer systems to undergo periodic
+training in computer security issues?
+A. Computer Security Act
+B. National Infrastructure Protection Act
+C. Computer Fraud and Abuse Act
+D. Electronic Communications Privacy Act
+
+3. What type of law does not require an act of Congress to implement at the federal level but
+rather is enacted by the executive branch in the form of regulations, policies, and procedures?
+A. Criminal law
+B. Common law
+C. Civil law
+D. Administrative law
+
+4. Which federal government agency has responsibility for ensuring the security of government
+computer systems that are not used to process sensitive and/or classified information?
+A. National Security Agency
+B. Federal Bureau of Investigation
+C. National Institute of Standards and Technology
+D. Secret Service
+
+5. What is the broadest category of computer systems protected by the Computer Fraud and
+Abuse Act, as amended?
+A. Government‐owned systems
+B. Federal interest systems
+C. Systems used in interstate commerce
+D. Systems located in the United States
+
+6. What law protects the right of citizens to privacy by placing restrictions on the authority
+granted to government agencies to search private residences and facilities?
+A. Privacy Act
+B. Fourth Amendment
+C. Second Amendment
+D. Gramm‐Leach‐Bliley Act
+
+7. Matthew recently authored an innovative algorithm for solving a mathematical problem,
+and he wants to share it with the world. However, prior to publishing the software code in
+a technical journal, he wants to obtain some sort of intellectual property protection. Which
+type of protection is best suited to his needs?
+A. Copyright
+B. Trademark
+C. Patent
+D. Trade secret
+
+8. Mary is the cofounder of Acme Widgets, a manufacturing firm. Together with her partner,
+Joe, she has developed a special oil that will dramatically improve the widget manufacturing
+process. To keep the formula secret, Mary and Joe plan to make large quantities of the oil by
+themselves in the plant after the other workers have left. They want to protect this formula
+for as long as possible. What type of intellectual property protection best suits their needs?
+A. Copyright
+B. Trademark
+C. Patent
+D. Trade secret
+
+9. Richard recently developed a great name for a new product that he plans to begin using
+immediately. He spoke with his attorney and filed the appropriate application to protect
+his product name but has not yet received a response from the government regarding his
+application. He wants to begin using the name immediately. What symbol should he use
+next to the name to indicate its protected status?
+A. ©
+B. ®
+C. ™
+D. †
+
+10. What law prevents government agencies from disclosing personal information that an individual
+supplies to the government under protected circumstances?
+A. Privacy Act
+B. Electronic Communications Privacy Act
+C. Health Insurance Portability and Accountability Act
+D. Gramm‐Leach‐Bliley Act
+
+11. What law formalizes many licensing arrangements used by the software industry and
+attempts to standardize their use from state to state?
+A. Computer Security Act
+B. Uniform Computer Information Transactions Act
+C. Digital Millennium Copyright Act
+D. Gramm‐Leach‐Bliley Act
+
+12. The Children’s Online Privacy Protection Act was designed to protect the privacy of children
+using the Internet. What is the minimum age a child must be before companies can
+collect personal identifying information from them without parental consent?
+A. 13
+B. 14
+C. 15
+D. 16
+
+13. Which one of the following is not a requirement that Internet service providers must
+satisfy in order to gain protection under the “transitory activities” clause of the Digital
+Millennium Copyright Act?
+A. The service provider and the originator of the message must be located in different
+states.
+B. The transmission, routing, provision of connections, or copying must be carried
+out by an automated technical process without selection of material by the service
+provider.
+C. Any intermediate copies must not ordinarily be accessible to anyone other than anticipated
+recipients and must not be retained for longer than reasonably necessary.
+D. The transmission must be originated by a person other than the provider.
+
+14. Which one of the following laws is not designed to protect the privacy rights of consumers
+and Internet users?
+A. Health Insurance Portability and Accountability Act
+B. Identity Theft Assumption and Deterrence Act
+C. USA PATRIOT Act
+D. Gramm‐Leach‐Bliley Act
+
+15. Which one of the following types of licensing agreements does not require that the user
+acknowledge that they have read the agreement prior to executing it?
+A. Standard license agreement
+B. Shrink‐wrap agreement
+C. Click‐wrap agreement
+D. Verbal agreement
+
+16. What industry is most directly impacted by the provisions of the Gramm‐Leach‐Bliley Act?
+A. Health care
+B. Banking
+C. Law enforcement
+D. Defense contractors
+
+17. What is the standard duration of patent protection in the United States?
+A. 14 years from the application date
+B. 14 years from the date the patent is granted
+C. 20 years from the application date
+D. 20 years from the date the patent is granted
+
+18. Which one of the following is not a valid legal reason for processing information about an
+individual under the European Union’s data privacy directive?
+A. Contract
+B. Legal obligation
+C. Marketing needs
+D. Consent
+
+19. What compliance obligation relates to the processing of credit card information?
+A. SOX
+B. HIPAA
+C. PCI DSS
+D. FERPA
+
+20. What act updated the privacy and security requirements of the Health Insurance Portability
+and Accountability Act (HIPAA)?
+A. HITECH
+B. CALEA
+C. CFAA
+D. CCCA
+```
+# Answer
+## Assessment Test
+```
 1.C 2.D 3.B 4.B 5.A
 6.D 7.D 8.C 9.D 10.B
 11.C 12.B 13.C 14.B 15.B
@@ -281,4 +851,20 @@ Assessment Test
 26.B 27.C 28.A 29.A 30.A
 31.D 32.A 33.C 34.C 35.A
 36.D 37.B 38.D 39.B 40.D 
+```
+## Chapter 1
+```
+
+```
+## Chapter 2
+```
+
+```
+## Chapter 3
+```
+
+```
+## Chapter 4
+```
+
 ```
