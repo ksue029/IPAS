@@ -1401,6 +1401,149 @@ B. Interface
 C. Programming language
 D. Subject
 ```
+# Chapter 9
+## Security Vulnerabilities, Threats, and Countermeasures
+```
+1. Many PC operating systems provide functionality that enables them to support the
+simultaneous execution of multiple applications on single-processor systems. What term is
+used to describe this capability?
+A. Multiprogramming
+B. Multithreading
+C. Multitasking
+D. Multiprocessing
+
+2. What technology provides an organization with the best control over BYOD equipment?
+A. Application whitelisting
+B. Mobile device management
+C. Encrypted removable storage
+D. Geotagging
+
+3. You have three applications running on a single-core single-processor system that supports
+multitasking. One of those applications is a word processing program that is managing two
+threads simultaneously. The other two applications are using only one thread of execution.
+How many application threads are running on the processor at any given time?
+A. One
+B. Two
+C. Three
+D. Four
+
+4. What type of federal government computing system requires that all individuals accessing
+the system have a need to know all of the information processed by that system?
+A. Dedicated
+B. System high
+C. Compartmented
+D. Multilevel
+
+5. What is a security risk of an embedded system that is not commonly found in a standard PC?
+A. Software flaws
+B. Access to the Internet
+C. Control of a mechanism in the physical world
+D. Power loss
+
+6. What type of memory chip allows the end user to write information to the memory only
+one time and then preserves that information indefinitely without the possibility of erasure?
+A. ROM
+B. PROM
+C. EPROM
+D. EEPROM
+
+7. Which type of memory chip can be erased only when it is removed from the computer and
+exposed to a special type of ultraviolet light?
+A. ROM
+B. PROM
+C. EPROM
+D. EEPROM
+
+8. Which one of the following types of memory might retain information after being removed
+from a computer and, therefore, represent a security risk?
+A. Static RAM
+B. Dynamic RAM
+C. Secondary memory
+D. Real memory
+
+9. What is the most effective means of reducing the risk of losing the data on a mobile device,
+such as a notebook computer?
+A. Defining a strong logon password
+B. Minimizing sensitive data stored on the mobile device
+C. Using a cable lock
+D. Encrypting the hard drive
+
+10. What type of electrical component serves as the primary building block for dynamic RAM
+chips?
+A. Capacitor
+B. Resistor
+C. Flip-flop
+D. Transistor
+
+11. Which one of the following storage devices is most likely to require encryption technology
+in order to maintain data security in a networked environment?
+A. Hard disk
+B. Backup tape
+C. Removable drives
+D. RAM
+
+12. In which of the following security modes can you be assured that all users have access
+permissions for all information processed by the system but will not necessarily need to
+know of all that information?
+A. Dedicated
+B. System high
+C. Compartmented
+D. Multilevel
+
+13. The most commonly overlooked aspect of mobile phone eavesdropping is related to which
+of the following?
+A. Storage device encryption
+B. Screen locks
+C. Overhearing conversations
+D. Wireless networking
+
+14. What type of memory device is usually used to contain a computer’s motherboard BIOS?
+A. PROM
+B. EEPROM
+C. ROM
+D. EPROM
+
+15. What type of memory is directly available to the CPU and is often part of the CPU?
+A. RAM
+B. ROM
+C. Register memory
+D. Virtual memory
+
+16. In what type of addressing scheme is the data actually supplied to the CPU as an argument
+to the instruction?
+A. Direct addressing
+B. Immediate addressing
+C. Base+offset addressing
+D. Indirect addressing
+
+17. What type of addressing scheme supplies the CPU with a location that contains the memory
+address of the actual operand?
+A. Direct addressing
+B. Immediate addressing
+C. Base+offset addressing
+D. Indirect addressing
+
+18. What security principle helps prevent users from accessing memory spaces assigned to
+applications being run by other users?
+A. Separation of privilege
+B. Layering
+C. Process isolation
+D. Least privilege
+
+19. Which security principle mandates that only a minimum number of operating system
+processes should run in supervisory mode?
+A. Abstraction
+B. Layering
+C. Data hiding
+D. Least privilege
+
+20. Which security principle takes the concept of process isolation and implements it using
+physical controls?
+A. Hardware segmentation
+B. Data hiding
+C. Layering
+D. Abstraction
+```
 # Answer
 ## Assessment Test
 ```
