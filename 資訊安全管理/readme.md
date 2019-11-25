@@ -1,4 +1,4 @@
-#資訊安全管理概論
+# 資訊安全管理概論
 ```
 1.資訊安全管理概念
 2.資產管理(asset management)與風險管理(Risk management)
@@ -6,7 +6,7 @@
 4.事故管理與營運持續	 
 5.法規遵循與資訊倫理
 ```
-# 1.資訊安全管理概念
+# 1.資訊安全管理概念(https://github.com/MyDearGreatTeacher/IPAS/blob/master/%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8%E7%AE%A1%E7%90%86/1_%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8%E7%AE%A1%E7%90%86%E6%A6%82%E5%BF%B5.md)
 ```
   1.1.CIA::機密性、完整性與可用性定義
   1.2.資訊安全管理系統(ISMS:)ISO 27001| 27002| CNS 27001
