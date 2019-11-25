@@ -7,6 +7,10 @@
 
 4.新興科技安全:雲端+行動+IOT
 ```
+### 注意事項:
+
+請務必時時看看[分類題庫](https://github.com/MyDearGreatTeacher/IPAS/blob/master/%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8%E6%8A%80%E8%A1%93/%E5%88%86%E9%A1%9E%E9%A1%8C%E5%BA%AB.md)
+
 # 1.網路與通訊安全
 ```
 
