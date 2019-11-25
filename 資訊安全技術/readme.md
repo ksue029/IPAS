@@ -23,7 +23,6 @@
 ```
 # 2.作業系統與應用程式安全
 ```  
-
   2.1.作業系統安全:windows作業系統| Linux作業系統 
      2.1.1.windows作業系統|Windows指令|Sysinternals|Powershell技術
      2.1.2.windows作業系統安全--Windows XP滲透測試
@@ -45,14 +44,37 @@
 ```        
   3.1.惡意程式防護與弱點管理(vulnerability management)
     3.1.1.惡意程式malware
+    3.1.2.惡意程式分析
     3.1.3.惡意程式防護
-    3.1.3.系統弱點及其管理
+         防毒軟體
+         防駭軟體
+         防火牆
+         
+    3.1.4.系統弱點及其管理
        如何偵測系統弱點---漏洞掃描
-    3.1.4.網站弱點及其管理
+    3.1.5.網站弱點及其管理
        如何偵測網站弱點---漏洞掃描
-       
+ ```
+ ```
   3.2.資料安全(data Security)及備份管理(backup)
-  
+     https://en.wikipedia.org/wiki/Data_security
+    3.2.1.資料安全(data Security)
+    3.2.2.資料安全(data Security)技術:
+          Disk encryption(硬碟加密)
+          Software versus hardware-based mechanisms for protecting data
+          Data masking(資料)
+    3.2.3.資料安全(data Security)標準:
+          ISO/IEC 27001:2013 and ISO/IEC 27002:2013
+          General Data Protection Regulation (GDPR) 
+          
+    3.2.4.備份管理(backup)基本觀念    https://en.wikipedia.org/wiki/Backup
+    3.2.5.備份方法|種類(Backup methods):
+            Full Backup |Incremental Backup|Differential backup|選擇式備份
+            冷備份|熱備份
+     3.2.6.備份儲存(Storage media): RAID  SAN NAS
+     3.2.7.備份管理(backup)類型:Online | Near-line | Off-line | Off-site data protection | Backup site
+ ```
+ ```
   3.3.日誌管理
     3.3.1.日誌log|日誌管理|日誌分析
     3.3.2.windows作業系統日誌及其管理
@@ -63,7 +85,6 @@
 ```
 # 4.新興科技安全
 ```
-
   4.1.雲端安全概論cloud security
     4.1.1.雲端運算cloud computing
     4.1.2.雲端運算實戰>>>visualizationv虛擬化技術 vs docker(雲端容器技術container)
@@ -73,7 +94,8 @@
        https://www.owasp.org/images/3/3f/OWASP_Cloud_Top_10.pdf
        The Serverless Security Top 10 Most Common Weaknesses Guide(2018)
        OWASP Cloud Testing Guide [https://www.owasp.org/images/a/aa/OWASPCloudTestingMar19.pdf]
-       
+  ```
+  ```
   4.2.行動裝置安全概論Mobile security
     4.2.1.行動裝置安全
     4.2.2.Mobile 攻擊手法分析:OWASP Mobile Top 10(2016)
@@ -82,7 +104,8 @@
           Mobile Security Testing Guide
           Mobile Application Security Verification Standard
           Mobile Security Checklist
-          
+ ```
+ ```
   4.3.物聯網安全概論IOT security
    4.3.1.物聯網 IOT(Internet of Thing)==>Internet of Threat
    4.3.2.物聯網攻擊手法分析:OWASP IOT TOP 10(2018)
