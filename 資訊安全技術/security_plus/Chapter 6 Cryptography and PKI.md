@@ -151,4 +151,11 @@ Certificate formats[憑證格式]:DER  PEM  PFX CER P12  P7B
 ```
 ### 6.4 公開金鑰基礎建設 (Public key infrastructure)
 
+```
+https://en.wikipedia.org/wiki/Public_key_infrastructure
+
+認證機構（Certification Authority,CA）（頒發憑證的人或機構）
+序號產生器構（Registration Authority,RA）
+
+```
 ![公開金鑰基礎建設 ](PKI.png)
