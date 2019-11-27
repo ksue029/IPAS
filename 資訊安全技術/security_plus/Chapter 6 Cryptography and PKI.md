@@ -156,6 +156,6 @@ https://en.wikipedia.org/wiki/Public_key_infrastructure
 
 認證機構（Certification Authority,CA）（頒發憑證的人或機構）
 序號產生器構（Registration Authority,RA）
-
+驗證系統(Validation Authority,VA)
 ```
 ![公開金鑰基礎建設 ](PKI.png)
