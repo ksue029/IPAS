@@ -1,8 +1,9 @@
 # Chapter 6 Cryptography and PKI
 
 ```
-6.1 Compare and contrast basic concepts of
-cryptography.
+6.1 密碼學基本觀念
+Compare and contrast basic concepts of cryptography.
+
 ■■ Symmetric algorithms
 ■■ Modes of operation
 ■■ Asymmetric algorithms
@@ -44,7 +45,8 @@ cryptography.
 ■■ Supporting non-repudiation
 ■■ Resource vs. security constraints
 
-6.2 Explain cryptography algorithms and their basic characteristics.
+6.2 密碼學演算法
+Explain cryptography algorithms and their basic characteristics.
 []Symmetric algorithms
 ■■ AES
 ■■ DES
@@ -68,16 +70,17 @@ cryptography.
 ■■ Elliptic curve
 ■■ PGP/GPG
 
-
-[]Hashing algorithms
+[]Hashing algorithms雜湊演算法
 ■■ MD5
 ■■ SHA
 ■■ HMAC
 ■■ RIPEMD
-■■Key stretching algorithms
+
+[]Key stretching algorithms
 ■■ BCRYPT
 ■■ PBKDF2
-■■ Obfuscation
+
+[]Obfuscation
 ■■ XOR
 ■■ ROT13
 ■■ Substitution ciphers
@@ -148,3 +151,4 @@ Certificate formats[憑證格式]:DER  PEM  PFX CER P12  P7B
 ```
 ### 6.4 公開金鑰基礎建設 (Public key infrastructure)
 
+![公開金鑰基礎建設 ](PKI.png)
